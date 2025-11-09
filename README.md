@@ -23,7 +23,8 @@ Modern card-style layout with styled input, buttons, and AQI display.
 Handles API errors gracefully with console logging.
 
 ## screenshot
-![Air Monitor Screenshot](puplic/image.png)
+![Air Monitor Screenshot](assets/image.png)
+
 
 ## Technologies
 
