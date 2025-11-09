@@ -37,3 +37,8 @@ Tailwind CSS
 Axios for API requests
 
 API Ninjas Air Quality API
+
+
+## Live Demo
+
+[Check it out here!](https://aqi-app-lemon.vercel.app/)
